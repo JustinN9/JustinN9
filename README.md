@@ -17,5 +17,5 @@ I'm a recent Computer Science graduate from MacEwan University with hands-on exp
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/justin-norton23)
-- [Portfolio Website](https://justin-norton23.github.io/portfolio-website/)
+- [Portfolio Website](https://justinn9.github.io)
 
