@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Justin Norton
 
-<!--
-**JustinN9/JustinN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software developer passionate about building clean, scalable, and user-friendly applications. With a background in computer science, I enjoy turning ideas into reality through code.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Workout Scoring App](https://github.com/justin-norton23/workout-scoring-app)**  
+  A mobile app that evaluates workout performance using computer vision and machine learning. Built with Java, Android Studio, Firebase, and OpenCV.
+
+- **[Portfolio Website](https://github.com/justin-norton23/portfolio-website)**  
+  My personal portfolio showcasing projects and skills. Developed using HTML, CSS, and JavaScript.
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, OpenCV
+- **Tools:** Git, GitHub, Android Studio, Firebase
+
+## 📈 GitHub Stats
+
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-norton23&show_icons=true&theme=default)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/justin-norton23)
+- [Portfolio Website](https://justin-norton23.github.io/portfolio-website/)
+
