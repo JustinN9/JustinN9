@@ -2,6 +2,8 @@
 
 I'm a junior software developer passionate about building clean, scalable, and user-friendly applications. With a background in computer science, I enjoy turning ideas into reality through code.
 
+
+
 ## 🚀 Projects
 
 - **[Workout Scoring App](https://github.com/justin-norton23/workout-scoring-app)**  
@@ -9,12 +11,6 @@ I'm a junior software developer passionate about building clean, scalable, and u
 
 - **[Portfolio Website](https://github.com/justin-norton23/portfolio-website)**  
   My personal portfolio showcasing projects and skills. Developed using HTML, CSS, and JavaScript.
-
-## 🛠️ Skills & Tools
-
-- **Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, OpenCV
-- **Tools:** Git, GitHub, Android Studio, Firebase
 
 ## 📈 GitHub Stats
 
