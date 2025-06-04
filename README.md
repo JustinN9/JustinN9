@@ -14,7 +14,7 @@ I'm a junior software developer passionate about building clean, scalable, and u
 
 ## 📈 GitHub Stats
 
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-norton23&show_icons=true&theme=default)
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinn9&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
 
