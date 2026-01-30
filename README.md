@@ -12,11 +12,9 @@ I'm a recent Computer Science graduate from MacEwan University with hands-on exp
   
 ## GitHub Stats
 
-![JustinN9's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinn9)
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinN9&show_icons=true&v=1)
 
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinn9&show_icons=true&theme=default)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinN9)
+![Justin's GitHub Streak](https://streak-stats.demolab.com?user=JustinN9)
 
 ## Let's Connect
 
