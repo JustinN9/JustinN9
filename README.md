@@ -14,6 +14,10 @@ I'm a recent Computer Science graduate from MacEwan University with hands-on exp
 
 ![JustinN9's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinn9)
 
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinn9&show_icons=true&theme=default)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinN9)
+
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/justin-norton23)
