@@ -12,7 +12,7 @@ I'm a recent Computer Science graduate from MacEwan University with hands-on exp
   
 ## GitHub Stats
 
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinn9&show_icons=true&theme=default)
+![Test's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinn9)
 
 ## Let's Connect
 
