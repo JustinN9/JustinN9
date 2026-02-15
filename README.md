@@ -1,6 +1,6 @@
 # Hi there, I'm Justin Norton
 
-I'm a recent Computer Science graduate from MacEwan University with hands-on experience developing full-stack applications and a strong focus on writing clean, maintainable code. I thrive on solving real-world problems through thoughtful, user-focused solutions that combine technical precision with practical impact.
+I'm a recent Computer Science graduate from MacEwan University with hands on experience developing full stack applications and a strong focus on writing clean, maintainable code. I thrive on solving real world problems through thoughtful, user focused solutions that combine technical precision with practical impact.
 
 ## Projects
 
