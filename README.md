@@ -14,6 +14,8 @@ I'm a recent Computer Science graduate from MacEwan University with hands on exp
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinN9)
 
+[![JustinN9's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinN9)](https://github.com/anuraghazra/github-readme-stats)
+
 ## GitHub Streak
 
 ![Justin's GitHub Streak](https://streak-stats.demolab.com?user=JustinN9)
